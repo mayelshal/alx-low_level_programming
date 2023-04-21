@@ -15,7 +15,7 @@ int mai (void)
 	while (ch <= 'z')
 	{
 		putchar(ch);
-		ch++
+		ch++;
 	}
 	purchar('\n');
 
