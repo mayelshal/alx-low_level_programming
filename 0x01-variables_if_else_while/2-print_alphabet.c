@@ -17,7 +17,7 @@ int mai (void)
 		putchar(ch);
 		ch++;
 	}
-	purchar('\n');
+	putchar('\n');
 
 	return (0);
 }	
