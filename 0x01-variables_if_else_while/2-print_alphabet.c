@@ -8,7 +8,7 @@
  * return :0 (success)
 */ 
 
-int mai (void)
+int main (void)
 {
 	char ch = 'a';
 
